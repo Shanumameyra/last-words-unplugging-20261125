@@ -26,6 +26,9 @@
 - Wallet: 8QhbYm7kNGpZ2FsrtVL1unDtK2KE7pcKcfXRfnZKu4jr
 - GitHub repo: Shanumameyra/last-words-unplugging-20261125
 - Git identity (repo-local): Shanumameyra / prayogaromi54@gmail.com
+- Repo created after GitHub rate-limit backoff ("too many repositories, too quickly"): 6 failed attempts, created on attempt 7 at ~05:43:52 UTC 25 Nov 2026
+- Commit: a0220eb "Last Words Before the Unplugging — make.fun entry (76 chars)", pushed to origin main
+- GitHub About verified: homepage https://make.fun/bounty/u-hazel-ibis-70-2844-last-words-before-the-unplugging-51acdd9c, topic `makefun`
 
 ## Build notes
 
